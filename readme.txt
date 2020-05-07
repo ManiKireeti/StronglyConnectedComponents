@@ -1,0 +1,1 @@
+Hi guys this file contains a cpp code to find all the strongly connected components in a given graph. The algortihm used here is "Kosaraju's algorithm".The graph is made up using adjacency list.To check download the file and compile using  the following command "g++ main.cpp" and to run the code use the command "./a.out".
